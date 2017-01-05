@@ -1,0 +1,8 @@
+buf[0]'s addr [dca74be0][-593015840]
+buf[1]'s addr [dca74be1][-593015839]
+buf[2]'s addr [dca74be2][-593015838]
+buf[3]'s addr [dca74be3][-593015837]
+shift 1 byte --> timeuse: 21922.449000 ms 
+shift 2 byte --> timeuse: 21939.704000 ms
+shift 3 byte --> timeuse: 21914.669000 ms
+shift 4(0) byte --> timeuse: 13098.406000 ms

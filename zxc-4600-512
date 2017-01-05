@@ -1,0 +1,8 @@
+buf[0]'s addr [cbac5b90][-877896816]
+buf[1]'s addr [cbac5b91][-877896815]
+buf[2]'s addr [cbac5b92][-877896814]
+buf[3]'s addr [cbac5b93][-877896813]
+shift 1 byte --> timeuse: 2737.134000 ms 
+shift 2 byte --> timeuse: 2734.451000 ms
+shift 3 byte --> timeuse: 2735.639000 ms
+shift 4(0) byte --> timeuse: 1653.300000 ms
