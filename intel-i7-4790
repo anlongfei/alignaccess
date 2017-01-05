@@ -1,0 +1,8 @@
+buf[0]'s addr [e3a29250][-475884976]
+buf[1]'s addr [e3a29251][-475884975]
+buf[2]'s addr [e3a29252][-475884974]
+buf[3]'s addr [e3a29253][-475884973]
+shift 1 byte --> timeuse: 4992.718000 ms 
+shift 2 byte --> timeuse: 4981.465000 ms
+shift 3 byte --> timeuse: 4986.646000 ms
+shift 4(0) byte --> timeuse: 4952.353000 ms
